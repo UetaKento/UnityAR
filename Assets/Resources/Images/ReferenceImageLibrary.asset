@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5367276614505493078
+  m_GuidHigh: 8889805991410037634
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5335823623410764163
+      m_GuidHigh: 14753687610346904508
+    m_SerializedTextureGuid:
+      m_GuidLow: 7260105765900454562
+      m_GuidHigh: 9176508620144498905
+    m_Size: {x: 0.1, y: 0.1179941}
+    m_SpecifySize: 1
+    m_Name: 0MarkerChair
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4829956778645852824
+      m_GuidHigh: 3620444353299258015
+    m_SerializedTextureGuid:
+      m_GuidLow: 3792797660795777529
+      m_GuidHigh: 15442078851794155594
+    m_Size: {x: 0.1, y: 0.105820104}
+    m_SpecifySize: 1
+    m_Name: 1MarkerTable
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5650014978059671430
+      m_GuidHigh: 18080966913977768096
+    m_SerializedTextureGuid:
+      m_GuidLow: 9554178831709503497
+      m_GuidHigh: 971998049566413769
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 2nreal_city
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4752733447272470507
+      m_GuidHigh: 5272488813585979308
+    m_SerializedTextureGuid:
+      m_GuidLow: 14165839970832767876
+      m_GuidHigh: 831394615320766713
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: 3QRCode
+    m_Texture: {fileID: 0}
