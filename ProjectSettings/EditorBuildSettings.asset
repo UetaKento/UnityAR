@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SceneCheckSupport.unity
+    guid: df28d9bd2fb8f47aca60a96f2bc8d7bb
+  - enabled: 0
+    path: Assets/Scenes/ScenePlaneDetection.unity
+    guid: 5c1a569907ca54c70b4285b9b92967b0
+  - enabled: 0
+    path: Assets/Scenes/SceneCenterPointer.unity
+    guid: dbb1a7ca45e56466bb13bc2b5dedc798
+  - enabled: 0
+    path: Assets/Scenes/SceneScaleAndRotation.unity
+    guid: 76932e73aa23b431bbc48314ef7fac98
+  - enabled: 0
+    path: Assets/Scenes/SceneCheckAvailableFeatures.unity
+    guid: 5d8800e30a5f94a7bb823205e25f5fa9
+  - enabled: 0
+    path: Assets/Scenes/SceneFaceTrackingMesh.unity
+    guid: 9596d5f0b9efb45cdba84497cb768a6e
+  - enabled: 0
+    path: Assets/Scenes/SceneFaceTrackingPose.unity
+    guid: d96424b78cbdd4638a03083610b4575d
+  - enabled: 0
+    path: Assets/Scenes/SceneFaceTrackingHide.unity
+    guid: 08725203cf8fc420ea3401ab1c7d9eaa
+  - enabled: 0
+    path: Assets/Scenes/TitleCenterpointer2.unity
+    guid: 642ba973b0c334df892c8833653fbaa4
+  - enabled: 0
+    path: Assets/Scenes/SceneCenterPointer2.unity
+    guid: cbc8a970182be44668dc94ac740a4c76
+  - enabled: 0
+    path: Assets/Scenes/EndCardCenterpointer2.unity
+    guid: 87dbf17bc1aae4b3f9c4153fa0da77b0
+  - enabled: 1
+    path: Assets/Scenes/SceneImageTracking.unity
+    guid: 2203e5de22f4449b1a2f55d03de11a4c
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 4f97511ac5c7140458ee2f836ac4c64b, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: b2a28424365044cf0aba07b8c5ffd4b9, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8dcd1953a571f4d31aa477c48ad9b66c, type: 2}
