@@ -7,5 +7,5 @@
 - [大きさ確認と回転](https://youtu.be/eZGxnL3wybI)
 - [顔検知](https://youtu.be/j0BLCmJ44LE)
 - [目だけ隠す](https://youtu.be/xuPlaArDdvg)
-- [コイン集めゲーム](https://youtu.be/xMezsT7Gd-0)&larr; 一番頑張った。
+- [コイン集めゲーム](https://youtu.be/xMezsT7Gd-0)
 - [画像検知]()
